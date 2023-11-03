@@ -2160,11 +2160,11 @@ button {
   .footer {
     padding-top: 54px;
     background-image: url(../img/footer@320.svg);
-    background-position-y: 98%;
+    background-position-y: 95%;
   }
 
   .footer__container {
-    margin-bottom: 41px;
+    margin-bottom: 54px;
   }
 
   .footer__menu {
